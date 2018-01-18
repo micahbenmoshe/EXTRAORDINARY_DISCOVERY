@@ -1,4 +1,4 @@
-<!doctype html>
+size="+3"><!doctype html>
 
 <title>Example</title>
 
@@ -41,7 +41,7 @@
 
  <div id="main">
 
-   <article><i>A Brief History</i> &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
+   <article><i>font size="+2">A Brief History</i> &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
 
   
 

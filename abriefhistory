@@ -19,7 +19,7 @@ size="+3"><!doctype html>
  #main > nav, 
  #main > aside {
    flex: 0 0 20vw;
-   background: babyblue;
+   background: skyblue;
  }
  #main > nav {
    order: -1;

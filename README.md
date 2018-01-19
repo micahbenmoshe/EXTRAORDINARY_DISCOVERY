@@ -1,1 +1,1 @@
-# micahbenmoshe.github.io, immune project (MAY ALLAH PROTECT US ALL)
+# micahbenmoshe.github.io, immune project, first-time endeavour
